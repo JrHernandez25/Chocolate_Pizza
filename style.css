@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    font-size: larger;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+}
+nav{
+    display: flex;
+    margin-right: 2%;
+}
+#wifi{
+    margin-left: .6%;
+}
+img{
+    display: flex;
+    margin: .1%;
+    height: 2%;
+    width: 2;
+}
+body{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+}
