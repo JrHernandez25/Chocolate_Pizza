@@ -3,3 +3,14 @@ nav{
     justify-content: flex-end;
     flex-direction: row;
 }
+#p2{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+#s1{
+    display: flex;
+    justify-content: space-around;
+    background-image: url(/img/list-bg.png);
+    padding: 3%;
+}
