@@ -14,3 +14,7 @@ nav{
     background-image: url(/img/list-bg.png);
     padding: 3%;
 }
+footer{
+    display: flex;
+    justify-content: center;
+}
